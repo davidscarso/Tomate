@@ -1,0 +1,14 @@
+C:\Users\DESARROLL-05\source\repos\PomodoroX\PomodoroX\bin\Debug\PomodoroX.exe.config
+C:\Users\DESARROLL-05\source\repos\PomodoroX\PomodoroX\bin\Debug\PomodoroX.exe
+C:\Users\DESARROLL-05\source\repos\PomodoroX\PomodoroX\bin\Debug\PomodoroX.pdb
+C:\Users\DESARROLL-05\source\repos\PomodoroX\PomodoroX\obj\Debug\PomodoroX.csprojAssemblyReference.cache
+C:\Users\DESARROLL-05\source\repos\PomodoroX\PomodoroX\obj\Debug\PomodoroX.Pomodoro.resources
+C:\Users\DESARROLL-05\source\repos\PomodoroX\PomodoroX\obj\Debug\PomodoroX.Properties.Resources.resources
+C:\Users\DESARROLL-05\source\repos\PomodoroX\PomodoroX\obj\Debug\PomodoroX.csproj.GenerateResource.cache
+C:\Users\DESARROLL-05\source\repos\PomodoroX\PomodoroX\obj\Debug\PomodoroX.csproj.CoreCompileInputs.cache
+C:\Users\DESARROLL-05\source\repos\PomodoroX\PomodoroX\obj\Debug\PomodoroX.exe
+C:\Users\DESARROLL-05\source\repos\PomodoroX\PomodoroX\obj\Debug\PomodoroX.pdb
+C:\Users\DESARROLL-05\source\repos\PomodoroX\PomodoroX\bin\Debug\PomodoroX.exe.manifest
+C:\Users\DESARROLL-05\source\repos\PomodoroX\PomodoroX\bin\Debug\PomodoroX.application
+C:\Users\DESARROLL-05\source\repos\PomodoroX\PomodoroX\obj\Debug\PomodoroX.exe.manifest
+C:\Users\DESARROLL-05\source\repos\PomodoroX\PomodoroX\obj\Debug\PomodoroX.application
