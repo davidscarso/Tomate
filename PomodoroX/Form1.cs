@@ -95,10 +95,8 @@ namespace PomodoroX
             if (seg == 0 && min == 0)
             {
                 //fin alarma
-                timer1.Enabled = false;
-                notifyIcon1.Text = "FIN!!!";
+                timer1.Enabled = false;                
                 notifyIcon1.ShowBalloonTip(10);
-                
 
             }
             else if (seg == 0 && min > 0)
