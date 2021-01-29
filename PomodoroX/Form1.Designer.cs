@@ -101,8 +101,7 @@
             this.lblCronometro.Size = new System.Drawing.Size(205, 76);
             this.lblCronometro.TabIndex = 3;
             this.lblCronometro.Text = "25:00";
-            this.lblCronometro.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            this.lblCronometro.Click += new System.EventHandler(this.lblCronometro_Click);
+            this.lblCronometro.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;            
             // 
             // btnLongBreak
             // 

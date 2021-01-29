@@ -25,6 +25,7 @@ namespace PomodoroX
             min = 25;
             seg = 00;
             estado = 0;
+            timer1.Enabled = false;
         }
 
         private void btnPomodoro_Click(object sender, EventArgs e)
@@ -33,6 +34,7 @@ namespace PomodoroX
             min = 25;
             seg = 00;
             estado = 0;
+            timer1.Enabled = true;
         }
 
         private void btnShortBreak_Click(object sender, EventArgs e)
@@ -41,6 +43,7 @@ namespace PomodoroX
             min = 05;
             seg = 00;
             estado = 1;
+            timer1.Enabled = true;
         }
 
         private void btnLongBreak_Click(object sender, EventArgs e)
@@ -49,6 +52,7 @@ namespace PomodoroX
             min = 10;
             seg = 00;
             estado = 2;
+            timer1.Enabled = true;
         }
 
         private void btnStart_Click(object sender, EventArgs e)
@@ -60,12 +64,7 @@ namespace PomodoroX
         {
             timer1.Enabled = false;
         }
-
-        private void lblCronometro_Click(object sender, EventArgs e)
-        {
-
-        }
-
+        
         private void btnReset_Click(object sender, EventArgs e)
         {
             timer1.Enabled = false;
@@ -95,9 +94,9 @@ namespace PomodoroX
             if (seg == 0 && min == 0)
             {
                 //fin alarma
-                timer1.Enabled = false;                
-                notifyIcon1.ShowBalloonTip(10);
-
+                timer1.Enabled = false;
+                notifyIcon1.ShowBalloonTip(60);
+                timer1.Enabled = false;
             }
             else if (seg == 0 && min > 0)
             {
